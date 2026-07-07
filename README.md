@@ -1,16 +1,50 @@
-## Hi there 👋
+# Привет, я Евгений Карнаухов 👋
 
-<!--
-**evkarn/evkarn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 **Инженер-конструктор** по образованию, **веб-разработчик** по призванию.  
+💻 8+ лет коммерческой разработки.  
+🎯 Проектирую **дизайн-системы**, интегрирую **API**, строю интерфейсы с душой.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Мой стек
+
+**Frontend:**  
+HTML5, CSS3, Sass/SCSS, JavaScript (ES6+), адаптивная вёрстка, BEM, a11y
+
+**Backend & CMS:**  
+PHP, WordPress, 1С-Битрикс, OpenCart, MODX, Drupal, Joomla
+
+**Инструменты:**  
+Git, GitHub, Webpack, Vite, Gulp, Docker, Figma
+
+**Сейчас изучаю:**  
+React, TypeScript
+
+---
+
+### Что я умею
+
+- Проектировать дизайн-системы с нуля (сетки, типографика, компоненты)
+- Интегрировать внешние API и работать с данными (REST API, кэширование, трансформация)
+- Настраивать сборку проектов под любые задачи (Webpack, Vite, Gulp)
+- Строить интерфейсы с учётом доступности (a11y) и UX/UI
+- Работать с нечётким ТЗ и доводить проекты до результата
+
+---
+
+### Где меня найти
+
+- 💬 [Telegram](https://t.me/evkarn) (предпочитаемый канал)
+- 🐙 [GitHub](https://github.com/evkarn)
+- 🌐 [Личный сайт](https://evkarn.ru)
+- 📧 [evkarn@yandex.ru](mailto:evkarn@yandex.ru)
+
+---
+
+### Мои принципы
+
+> *«Если я назвал сроки — я их выполняю.  
+> Если решение неоптимально — я его переделываю.  
+> Если проект можно сделать лучше — я делаю.»*
+
+---
