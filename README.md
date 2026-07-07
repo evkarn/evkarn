@@ -39,9 +39,10 @@ React, TypeScript
 ### Где меня найти
 
 - 💬 [Telegram](https://t.me/evkarn) (предпочитаемый канал)
-- 🐙 [GitHub](https://github.com/evkarn)
+- 💬 [Max](https://max.ru/u/f9LHodD0cOLxDahw5Yo7iwYakCrfMsvj1ToBZAdPblOjH0lbolmLJi8UNrw)
+- 💬 [VK](https://vk.me/evkarn)
 - 🌐 [Личный сайт](https://evkarn.ru)
-- 📧 [evkarn@yandex.ru](mailto:evkarn@yandex.ru)
+- 📧 [mail@evkarn.ru](mailto:mail@evkarn.ru)
 
 ---
 
